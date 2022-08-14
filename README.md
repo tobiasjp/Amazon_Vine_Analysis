@@ -29,7 +29,7 @@ US Reviews Dataset- Home Entertainment
 
 In conducting this analysis, we selected Home Entertainment review data from Amazon US reviews dataset.  We were able to create a new dataset from this data, that provided specific information on how many reviews in the Home Entertainment dataset were Vine members, and how many were not vine members.  We selected specific criteria through filtering to help determine a dataset that would give the most accurate results.
 
-### Filtering Results
+### Filtering Data
 
 In order to produce a set of reliable results, we began with filtering the data twice: we wanted only results where the total_votes per review_id were greater than or equal to 20 and where the number of helpful votes divided by the number of total votes was greater than or equal to 50%.  This helped produce the table that was used to conclude the remaining results.
 
